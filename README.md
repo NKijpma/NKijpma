@@ -1,2 +1,2 @@
-<img src="cat rain gif.gif" alt="top gif"/>
+<img src="cat_rain.gif" alt="top gif"/>
 #hoi hoi
