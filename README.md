@@ -13,7 +13,9 @@
 
 <details>
 
- <summary> <table><tr><td style="padding:8px 14px; background:#EFE6D8; border-radius:6px;"> 🇬🇧 English </td></tr></table> </summary>
+ <summary>
+  <strong>🇬🇧 English</strong>
+ </summary>
 
 ## Hello 👋 <br>
 - ### **I’m NKijpma** <br>
