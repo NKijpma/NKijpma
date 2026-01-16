@@ -12,10 +12,8 @@
 <br>
 
 <details>
-  
-<summary style="font-size: 10vw; font-weight: bold;">
-  🇬🇧 English 
-</summary>
+
+ <summary> <table><tr><td style="padding:8px 14px; background:#EFE6D8; border-radius:6px;"> 🇬🇧 English </td></tr></table> </summary>
 
 ## Hello 👋 <br>
 - ### **I’m NKijpma** <br>
