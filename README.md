@@ -16,6 +16,8 @@
  <summary>
   <strong>🇬🇧 English</strong>
  </summary>
+ 
+ <br>
 
 <img src="puck.jpg" alt="top gif" width="30%"> 
 
