@@ -26,10 +26,10 @@
 - ### **I’m studying to become a Software Developer** <br>
 
 ## I can ▿<br>
-### - **basic Python** 🐍<br>
-### - **basic C#** 🎮<br>
-### - **HTML / CSS** 🌐<br>
-### - **basic MySQL** 💻<br>
+### - basic Python 🐍<br>
+### - basic C#🎮<br>
+### - HTML / CSS 🌐<br>
+### - basic MySQL💻<br>
 
 </details>
 
