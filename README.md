@@ -9,10 +9,13 @@
 ### - html / css 🌐<br>
 ### - basis mysql 💻<br>
 
-
-<div style="background-color:#EFE6D8; padding:20px; border-radius:8px;">
-  Dit is een cozy blok met kleur.
-</div>
+<table>
+  <tr>
+    <td style="background-color:#EFE6D8; padding:25px; border-radius:10px;">
+      Cozy calico cat energy inside.
+    </td>
+  </tr>
+</table>
 
 
 <br>
