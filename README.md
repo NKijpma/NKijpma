@@ -13,7 +13,9 @@
 
 <details>
   
- <summary><strong>🇬🇧 English</strong></summary>
+<summary style="font-size: 20px; font-weight: bold;">
+  🇬🇧 English 
+</summary>
 
 ## Hello 👋 <br>
 - ### **I’m NKijpma** <br>
