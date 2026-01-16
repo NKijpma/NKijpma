@@ -10,8 +10,6 @@
 ### - basis mysql 💻<br>
 
 <br>
-<br>
-<br>
 
 <details>
   <summary>🇬🇧 English</summary>
