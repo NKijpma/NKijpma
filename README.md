@@ -1,4 +1,4 @@
-<img src="cat_rain.gif" alt="top gif"/> 
+<img src="PooCheeta.jpg" alt="top gif"/> 
 
 ## hoi 👋 <br>
 - ### Ik ben NKijpma <br>
