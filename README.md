@@ -22,8 +22,8 @@
 <img src="puck.jpg" alt="top gif" width="30%"> 
 
 ## Hello 👋 <br>
-- ### **I’m [NKijpma](https://github.com/NKijpma)** <br>
-- ### **I’m studying to become a Software Developer** <br>
+- ### I’m [NKijpma](https://github.com/NKijpma) <br>
+- ### I’m studying to become a Software Developer <br>
 
 ## I can ▿<br>
 ### - basic Python 🐍<br>
