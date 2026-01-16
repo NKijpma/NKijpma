@@ -13,7 +13,7 @@
 
 <details>
   
-<summary style="font-size: 20px; font-weight: bold;">
+<summary style="font-size: 10vw; font-weight: bold;">
   🇬🇧 English 
 </summary>
 
