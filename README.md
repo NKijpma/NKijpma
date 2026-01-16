@@ -9,17 +9,14 @@
 ### - html / css 🌐<br>
 ### - basis mysql 💻<br>
 
-<table>
-  <tr>
-    <td style="background-color:#EFE6D8; padding:25px; border-radius:10px;">
-      Cozy calico cat energy inside.
-    </td>
-  </tr>
-</table>
-
-
 <br>
 <br>
 <br>
 
+<details>
+  <summary>🇬🇧 English</summary>
+
+Your English text here.
+
+</details>
 
