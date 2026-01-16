@@ -12,7 +12,8 @@
 <br>
 
 <details>
-  <summary>🇬🇧 English</summary>
+  
+ <summary><strong>🇬🇧 English</strong></summary>
 
 ## Hello 👋 <br>
 - ### **I’m NKijpma** <br>
@@ -23,7 +24,6 @@
 ### - **basic C#** 🎮<br>
 ### - **HTML / CSS** 🌐<br>
 ### - **basic MySQL** 💻<br>
-
 
 </details>
 
