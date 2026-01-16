@@ -1,4 +1,4 @@
-<img src="ive been thinking dog.jpg" alt="top gif"/> 
+<img src="ive been thinking dog.jpg" alt="top gif" width="50%"> 
 
 ## hoi 👋 <br>
 - ### Ik ben NKijpma <br>
