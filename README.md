@@ -12,12 +12,12 @@
 <br>
 
 <details>
-
-<img src="puck.jpg" alt="top gif" width="30%"> 
-
+ 
  <summary>
   <strong>🇬🇧 English</strong>
  </summary>
+
+<img src="puck.jpg" alt="top gif" width="30%"> 
 
 ## Hello 👋 <br>
 - ### **I’m NKijpma** <br>
