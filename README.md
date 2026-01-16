@@ -16,7 +16,16 @@
 <details>
   <summary>🇬🇧 English</summary>
 
-Your English text here.
+## Hello 👋 <br>
+- ### **I’m NKijpma** <br>
+- ### **I’m studying to become a Software Developer** <br>
+
+## I can ▿<br>
+### - **basic Python** 🐍<br>
+### - **basic C#** 🎮<br>
+### - **HTML / CSS** 🌐<br>
+### - **basic MySQL** 💻<br>
+
 
 </details>
 
