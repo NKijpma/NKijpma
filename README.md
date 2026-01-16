@@ -13,6 +13,8 @@
 
 <details>
 
+<img src="puck.jpg" alt="top gif" width="30%"> 
+
  <summary>
   <strong>🇬🇧 English</strong>
  </summary>
