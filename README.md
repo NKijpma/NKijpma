@@ -1,4 +1,4 @@
-<img src="puck.jpg" alt="top gif" width="30%"> 
+<img src="puck.jpg" alt="top gif" width="50%"> 
 
 ## hoi 👋 <br>
 - ### Ik ben NKijpma <br>
