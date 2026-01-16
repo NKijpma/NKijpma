@@ -11,6 +11,7 @@
 
 <br>
 
+<!-- vertaling naar engels -->
 <details>
  
  <summary>
