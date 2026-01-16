@@ -9,6 +9,12 @@
 ### - html / css 🌐<br>
 ### - basis mysql 💻<br>
 
+
+<div style="background-color:#EFE6D8; padding:20px; border-radius:8px;">
+  Dit is een cozy blok met kleur.
+</div>
+
+
 <br>
 <br>
 <br>
