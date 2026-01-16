@@ -1,4 +1,4 @@
-<img src="PooCheeta.jpg" alt="top gif"/> 
+<img src="ive been thinking dog.jpg" alt="top gif"/> 
 
 ## hoi 👋 <br>
 - ### Ik ben NKijpma <br>
