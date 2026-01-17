@@ -1,4 +1,4 @@
-<img src="cat_looking.gif" alt="top gif/image" width="40%"> 
+<img src="cat_looking.gif" alt="top gif/image" width="30%"> 
 
 ## hoi 👋 <br>
 - ### Ik ben [NKijpma](https://github.com/NKijpma) <br>
@@ -20,7 +20,7 @@
  
  <br>
 
-<img src="cat_looking.gif" alt="top gif/image" width="40%"> 
+<img src="cat_looking.gif" alt="top gif/image" width="30%"> 
 
 ## Hello 👋 <br>
 - ### I’m [NKijpma](https://github.com/NKijpma) <br>
