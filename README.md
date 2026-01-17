@@ -1,4 +1,4 @@
-<img src="puck.jpg" alt="top gif" width="30%"> 
+<img src="orb txt.png" alt="top gif/image" width="30%"> 
 
 ## hoi 👋 <br>
 - ### Ik ben [NKijpma](https://github.com/NKijpma) <br>
@@ -20,7 +20,7 @@
  
  <br>
 
-<img src="puck.jpg" alt="top gif" width="30%"> 
+<img src="orb txt.png" alt="top gif/image" width="30%"> 
 
 ## Hello 👋 <br>
 - ### I’m [NKijpma](https://github.com/NKijpma) <br>
