@@ -26,7 +26,7 @@
 - ### I’m [NKijpma](https://github.com/NKijpma) <br>
 - ### I’m studying to become a Software Developer <br>
 
-## I can ▿<br>
+## I'm capable of ▿<br>
 ### - basic Python 🐍<br>
 ### - basic C#🎮<br>
 ### - HTML / CSS 🌐<br>
