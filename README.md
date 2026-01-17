@@ -1,4 +1,4 @@
-<img src="orb txt.png" alt="top gif/image" width="100%"> 
+<img src="orb txt.png" alt="top gif/image" width="10%"> 
 
 ## hoi 👋 <br>
 - ### Ik ben [NKijpma](https://github.com/NKijpma) <br>
