@@ -21,6 +21,7 @@ translation to english
  <summary>
   <strong>🇬🇧 English</strong>
  </summary>
+ <br>
  
 <img src="cat_looking.gif" alt="top gif/image" width="30%"> 
 
