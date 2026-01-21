@@ -24,7 +24,7 @@
 
 ## Hello 👋 <br>
 - ### I’m NKijpma <br>
-- ### I’m studying to become a Software Developer <br>
+- ### I’m currently studying to become a Software Developer <br>
 
 ## I'm capable of ▿<br>
 ### - basic Python 🐍<br>
