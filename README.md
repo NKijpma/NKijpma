@@ -1,4 +1,3 @@
-<br>
 <img src="cat_looking.gif" alt="top gif/image" width="30%"> 
 
 ## hoi 👋 <br>
@@ -24,7 +23,7 @@ translation to english
  </summary>
  <br>
  
-<img src="cat_looking.gif" alt="top gif/image" width="30%"> 
+<img src="cat_looking.gif" alt="top gif/image english" width="30%"> 
 
 ## Hello 👋 <br>
 - ### I’m NKijpma <br>
