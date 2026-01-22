@@ -1,4 +1,4 @@
-<img src="cat_looking.gif" alt="top gif/image" width="30%"> 
+<img src="cat_looking.gif" alt="top gif/image" width="30%" z-index="-10"> 
 
 ## hoi 👋 <br>
 - ### Ik ben NKijpma <br>
