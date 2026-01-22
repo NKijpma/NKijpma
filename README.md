@@ -11,11 +11,11 @@
 ### - basis MySQL💻<br>
 <br>
 
-
 <!-- 
 vertaling naar engels 
 translation to english
 -->
+
 <details>
  
  <summary>
