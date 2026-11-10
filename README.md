@@ -2,7 +2,7 @@
 
 ## hoi 👋 <br>
 - ### Ik ben NKijpma <br>
-- ### Ik doe op dit moment een Software Devoloper opleiding<br>
+- ### Ik doe op dit moment een Software Developer opleiding<br>
 
 ## ik kan ▿<br>
 ### - basis Python 🐍<br>
